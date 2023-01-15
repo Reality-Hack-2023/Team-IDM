@@ -1,8 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="" alt="VRecallGame-logo"></a>
+ <img width=500px src="/imgandgifs/Splashscreen.png" alt="VRecallGame-logo"></a>
 </p>
-<h3 align="center">Tagline</h3>
+<h3 align="center">V/Recall - Sensory Stimulation for the Next Generation of Brain Training</h3>
 
 <div align="center">
 
@@ -16,17 +16,18 @@
 
 <h2 align="center">FoodARt as a Mobile Application</h2>
 <div align="center">
-  <img src ="/gifs/1.gif" width = 500px>
-  <img src ="/gifs/2.gif" width = 500px>
-  <img src ="/gifs/3.gif" width = 500px>
-  <img src ="/gifs/4.gif" width = 500px>
+  <img src =" /imgandgifs/1.gif" width = 500px>
+  <img src ="/imgandgifs/2.gif" width = 500px>
+  <img src ="/imgandgifs/3.gif" width = 500px>
+  <img src ="/imgandgifs/4.gif" width = 500px>
 </div>
 
 
 
 ### Contributors
-- [@angelbmai](https://github.com/angelbmai)
+- [@angelbmai](https://www.instagram.com/angelbmai/)
 - [@harshpalan](https://github.com/harshpalan)
-- [@Meg199602](https://github.com/Meg199602)
-- [@TinaChen099](https://github.com/TinaChen099)
+- [@janelleroswell](https://www.linkedin.com/in/janroz/)
+- [@Meg199602](https://www.linkedin.com/in/meghana-shanbhogue/)
+- [@TinaChen099](https://www.linkedin.com/in/tina-zhizhuang-chen/)
 
